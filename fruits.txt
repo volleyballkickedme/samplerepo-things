@@ -1,3 +1,1 @@
-apples
-berries
-cherries
+Apple, Pear, Orange
